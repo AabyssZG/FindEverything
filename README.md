@@ -38,3 +38,7 @@ python2 FindEverything-py2.py -n .txt,.ini,.yaml,.php,.jsp,.java,.xml,.sql -c "p
 python2 FindEverything-py2.py -n .txt,.ini,.yaml,.php,.jsp,.java,.xml,.sql -c jdbc:mysql
 python2 FindEverything-py2.py -n .txt,.ini,.yaml,.php,.jsp,.java,.xml,.sql -c jdbc:mysql -o output.txt
 ```
+
+## 🙏 感谢各位师傅
+
+[![Star History Chart](https://api.star-history.com/svg?repos=AabyssZG/FindEverything&type=Date)](https://star-history.com/#AabyssZG/FindEverything&Date)
