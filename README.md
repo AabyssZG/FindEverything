@@ -21,6 +21,8 @@ sk-
 
 ## 🐉 工具使用
 
+![FindEverything](./pic/FindEverything.png)
+
 Python3环境
 
 ```
